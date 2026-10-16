@@ -230,7 +230,7 @@ end)
 function Linemode:desc()
 	local d = full_desc(self._file)
 	if not d then
-		return ui.Line({ ui.Span(" [nodesc]"):fg("white") })
+		return ui.Line({ ui.Span(" ✎ none (m r)"):fg("white") })
 	end
 	if d:sub(1, #MARKER) == MARKER then
 		local i = math.floor(now_s() * 3) % #SPINNER + 1
