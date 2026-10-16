@@ -6,6 +6,9 @@
 local CACHE = "/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv"
 local ROOT = "/Users/robinshaw/Code/planning-system"
 local MAX_BAR_LINES = 4
+-- Injected-description styling: a lavandere accent + italic so the bar
+-- clearly reads as injected summary, not file content.
+local BAR_FG = "#b4befe"
 
 local _cache, _cache_stamp = nil, nil
 local _stamp_checked = 0
@@ -169,14 +172,33 @@ local function render(...)
 			path = (tostring(cwdurl):gsub("/$", "")) .. "/" .. path
 		end
 	end
+	-- Folder rule (yazi.toml "folder/*") reroutes directory previews here;
+	-- below-bar content becomes the child listing instead of file text.
+	local is_dir = false
+	pcall(function()
+		is_dir = file.cha and file.cha.is_dir == true
+	end)
+	if not is_dir then
+		local p = io.popen('test -d "' .. (path:gsub('"', '\\"')) .. '" 2>/dev/null && echo d')
+		if p then
+			is_dir = p:read("*a") == "d"
+			p:close()
+		end
+	end
 	local desc = fresh_desc(path, mtime)
-	trace("peek: path=" .. path .. " mtime=" .. tostring(math.floor(mtime)))
+	trace("peek: path=" .. path .. " mtime=" .. tostring(math.floor(mtime)) .. " dir=" .. tostring(is_dir))
 
 	local lines = {}
 	local barrows = 0
+	local function push_bar(txt)
+		local okL, ln = pcall(function()
+			return ui.Line(txt):style(ui.Style():fg(BAR_FG):italic())
+		end)
+		lines[#lines + 1] = okL and ln or txt
+	end
 	if desc then
 		for _, l in ipairs(wrap(desc, math.max(area.w - 4, 10), MAX_BAR_LINES)) do
-			lines[#lines + 1] = l
+			push_bar(l)
 		end
 		barrows = #lines
 		if barrows > 0 then
@@ -185,28 +207,51 @@ local function render(...)
 			barrows = barrows + 1
 		end
 	else
-		-- Always a bar: "No summary" when nothing is cached for this row.
-		lines = { "No summary" }
+		-- Always a bar: "no summary generated yet" in the injected style
+		-- when nothing is cached for this row.
+		push_bar("no summary generated yet")
+		lines[#lines + 1] = string.rep("─", math.max(area.w, 3))
 		barrows = 2
 	end
 
 	-- Content below the bar; skip = scrolled lines (J/K).
 	local maxc = area.h - barrows
 	local skip = job.skip or 0
+	-- NOTE: image previews deliberately do NOT route through the bar. The
+	-- ya.image_show call hung in pty tests (2026-10-15, resolved only at
+	-- quit) and was the freeze suspect; investigate precache first
+	-- (agent inbox) before re-wiring images here.
 	if maxc > 0 and skip >= 0 then
-		local f = io.open(path, "r")
-		if f then
-			local seen = 0
-			for line in f:lines() do
-				seen = seen + 1
-				if seen > skip then
-					lines[#lines + 1] = (line:gsub("\t", "  ")):sub(1, area.w)
-					if #lines - barrows >= maxc then
-						break
-					end
+		if is_dir then
+			local q = (path:gsub('"', '\\"'))
+			local p = io.popen('ls -1 "' .. q .. '" 2>/dev/null')
+			if p then
+				local names = {}
+				for nm in p:lines() do
+					names[#names + 1] = nm
+				end
+				p:close()
+				for i = skip + 1, math.min(#names, skip + maxc) do
+					lines[#lines + 1] = names[i]:sub(1, area.w)
 				end
 			end
-			f:close()
+		else
+			pcall(function()
+				local f = io.open(path, "r")
+				if f then
+					local seen = 0
+					for line in f:lines() do
+						seen = seen + 1
+						if seen > skip then
+							lines[#lines + 1] = (line:gsub("\t", "  ")):sub(1, area.w)
+							if #lines - barrows >= maxc then
+								break
+							end
+						end
+					end
+					f:close()
+				end
+			end)
 		end
 	end
 
@@ -238,4 +283,25 @@ local function seek(...)
 	end)
 end
 
-return { peek = render, seek = seek }
+	return {
+	peek = render,
+	seek = seek,
+	preload = function(job)
+		-- Mirror the stock image previewer: precache so ya.image_show gets
+		-- a prepared copy instead of hanging on the raw path.
+		local okc, cached = pcall(function()
+			return ya.file_cache(job)
+		end)
+		if okc and cached then
+			local okf, st = pcall(function()
+				return fs.stat(cached)
+			end)
+			if okf and not st then
+				pcall(function()
+					ya.image_precache(Url(tostring(job.file.path)), cached)
+				end)
+			end
+		end
+		return true
+	end,
+}
