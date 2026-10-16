@@ -1,0 +1,3 @@
+# Parked test-plan rows for ~/Code/eza-experiment (see ~/Code/reference/development-policy.md section 3).
+# Format: YYYY-MM-DD | path-or-id | one-line reason | owner | planned-tdd-or-placeholder
+2026-10-15 | yazi-config/plugins/desc-bulk.yazi hovered-arg | yazi plugin Lua needs the yazi runtime; no headless runner in this project, suite covers the .mjs backend only | robinshaw | extract job-building into a Lua module with a stubbed ya/fs, or add a luacheck unit test if a yazi-free runner arrives
