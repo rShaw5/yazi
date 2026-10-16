@@ -158,12 +158,29 @@ try {
   process.exit(2);
 }
 
-// Two-tier parse: first line = hyper phrase, second line = full sentence.
+// Two-tier parse: the agent may narrate before answering and may even
+// answer more than once; the FINAL two clean lines are the answer (last
+// wins), so opener chatter can't win and multiple answers take the agent's
+// own last version.
 const textLines = dropWarnings(raw).split("\n").map((l) => clean(l)).filter(Boolean);
-const hyper = clipWords(textLines[0] ?? "", MAX_HYPER_WORDS).slice(0, MAX_CHARS);
-const long = (textLines[1] ?? hyper).slice(0, MAX_LONG_CHARS);
+const n = textLines.length;
+const hyper = (n >= 2 ? clipWords(textLines[n - 2], MAX_HYPER_WORDS) : n === 1 ? clipWords(textLines[0], MAX_HYPER_WORDS) : "")
+	.slice(0, MAX_CHARS);
+const long = (n >= 2 ? textLines[n - 1] : "").slice(0, MAX_LONG_CHARS);
+// No parsable pair counts as agent failure: restore the previous
+// description (or drop the marker row) instead of leaving the marker
+// stuck in the cache forever.
+if (!hyper && !long) {
+	rows = loadCache().filter((r) => r[0] !== REL);
+	if ((prevHyper && prevHyper !== MARKER) || prevLong) {
+		rows.push([REL, key, prevHyper || prevLong, prevLong || prevHyper || ""]);
+	}
+	writeCache(rows);
+	console.error(`rewrite: agent gave no parsable answer for ${REL}; previous restored`);
+	process.exit(2);
+}
 const desc = hyper || prevHyper || MARKER;
-const showLong = textLines[1] ? long : hyper || prevLong || "";
+const showLong = long || (n >= 2 ? "" : hyper || prevLong || "");
 writeCache(setRow(loadCache(), REL, key, desc, showLong));
 
 // Save the hint so future rescans re-apply it (kind=hint rows) — but only

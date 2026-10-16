@@ -10,3 +10,40 @@
 13:40:53 entry
 13:40:53 hovered: got=/Users/robinshaw/Code/eza-experiment/yazi-still.png
 13:40:54 confirm: shown=true yes=false
+17:17:27 entry
+17:17:27 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin
+17:17:28 confirm: shown=true yes=true
+17:17:28 spawning /Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin
+17:17:34 done=true
+17:17:34 exit
+17:18:26 entry
+17:18:26 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md
+17:18:27 confirm: shown=true yes=false
+17:18:29 entry
+17:18:29 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md
+17:18:30 confirm: shown=true yes=true
+17:18:30 spawning /Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md
+17:18:34 done=true
+17:18:34 exit
+17:31:01 entry
+17:31:01 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty
+17:31:03 confirm: shown=true yes=true
+17:31:03 spawning /Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty
+17:31:20 done=true
+17:31:20 exit
+17:40:07 entry
+17:40:07 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin
+17:40:08 confirm: shown=true yes=true
+17:40:08 spawning /Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin
+17:40:20 entry
+17:40:20 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build
+17:40:20 confirm: shown=true yes=true
+17:40:20 spawning /Users/robinshaw/Code/yazi/spike-descriptions/yazi-build
+17:40:27 done=true
+17:40:27 exit
+17:48:09 entry
+17:48:09 hovered: got=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor
+17:48:10 confirm: shown=true yes=true
+17:48:10 spawning /Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor
+17:48:19 done=true
+17:48:19 exit

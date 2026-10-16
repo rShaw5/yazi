@@ -349,3 +349,1716 @@
 13:42:18 fresh: stamp=1792096925 ents=31 keylen=46 hit=true hyperlen=27 own=1791741605
 13:42:18 peek: path=/Users/robinshaw/Code/eza-experiment/yazi.tape mtime=1791741605
 13:42:18 peek: area=69x44 desc=true lines=16 drawn
+17:18:23 fresh: stamp=1792109854 ents=32 keylen=55 hit=false hyperlen=nil own=nil
+17:18:23 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:18:23 peek: area=38x54 desc=false lines=54 drawn
+17:19:29 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:19:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:19:29 peek: area=38x54 desc=true lines=54 drawn
+17:19:29 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:19:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:19:29 peek: area=38x54 desc=false lines=19 drawn
+17:19:30 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:19:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667
+17:19:30 peek: area=38x54 desc=false lines=54 drawn
+17:19:30 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:19:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:19:30 peek: area=38x54 desc=false lines=19 drawn
+17:19:30 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:19:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:19:30 peek: area=38x54 desc=true lines=54 drawn
+17:19:31 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:19:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:19:31 peek: area=38x54 desc=true lines=54 drawn
+17:19:31 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:19:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:19:31 peek: area=38x54 desc=false lines=19 drawn
+17:19:31 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:19:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667
+17:19:31 peek: area=38x54 desc=false lines=54 drawn
+17:19:32 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:19:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:19:32 peek: area=38x54 desc=false lines=19 drawn
+17:19:32 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:19:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:19:32 peek: area=38x54 desc=true lines=54 drawn
+17:19:34 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:19:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:19:34 peek: area=38x54 desc=true lines=54 drawn
+17:22:54 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:22:54 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:22:54 peek: area=38x54 desc=true lines=54 drawn
+17:22:55 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:22:55 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:22:55 peek: area=38x54 desc=false lines=20 drawn
+17:22:55 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:22:55 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667
+17:22:55 peek: area=38x54 desc=false lines=54 drawn
+17:22:55 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:22:55 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667
+17:22:55 peek: area=38x54 desc=false lines=54 drawn
+17:22:56 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:22:56 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667
+17:22:56 peek: area=38x54 desc=false lines=54 drawn
+17:22:56 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:22:56 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:22:56 peek: area=38x54 desc=false lines=20 drawn
+17:22:56 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:22:56 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:22:56 peek: area=38x54 desc=true lines=54 drawn
+17:22:57 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:22:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:22:57 peek: area=38x54 desc=true lines=54 drawn
+17:22:59 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:22:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:22:59 peek: area=38x54 desc=true lines=54 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=54 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=54 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=31 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=16 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=4 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=8 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=38 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=54 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=54 drawn
+17:23:17 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:17 peek: area=38x54 desc=true lines=54 drawn
+17:23:18 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:18 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:18 peek: area=38x54 desc=true lines=54 drawn
+17:23:18 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:18 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:18 peek: area=38x54 desc=true lines=54 drawn
+17:23:18 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:18 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:18 peek: area=38x54 desc=true lines=31 drawn
+17:23:18 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:18 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:18 peek: area=38x54 desc=true lines=21 drawn
+17:23:18 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=11 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=6 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=12 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=18 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=24 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=30 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=36 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=42 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=48 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=54 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=54 drawn
+17:23:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:23:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:23:19 peek: area=38x54 desc=true lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CHANGELOG.md mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=64 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=3 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792109914
+17:23:20 peek: area=38x54 desc=false lines=29 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.nix mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=53 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=23 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE-ICONS mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=23 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/longpass.mjs mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/overrides.tsv mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=27 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase1.tape mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=19 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=18 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/README.md mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=60 hit=false hyperlen=nil own=nil
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scan-staged.sh mtime=1792109667
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rewrite.mjs mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 peek: area=38x54 desc=false lines=54 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/stylua.toml mtime=1792109667
+17:23:20 peek: area=38x54 desc=false lines=9 drawn
+17:23:20 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:23:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668
+17:23:20 peek: area=38x54 desc=false lines=15 drawn
+17:23:22 fresh: stamp=1792109914 ents=33 keylen=60 hit=false hyperlen=nil own=nil
+17:23:22 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scan-staged.sh mtime=1792109667
+17:23:22 peek: area=38x54 desc=false lines=54 drawn
+17:23:28 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:23:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rustfmt.toml mtime=1792109667
+17:23:28 peek: area=38x54 desc=false lines=33 drawn
+17:23:29 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667
+17:23:29 peek: area=38x54 desc=false lines=18 drawn
+17:23:30 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:23:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667
+17:23:30 peek: area=38x54 desc=false lines=54 drawn
+17:23:31 fresh: stamp=1792109914 ents=33 keylen=60 hit=false hyperlen=nil own=nil
+17:23:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792109914
+17:23:31 peek: area=38x54 desc=false lines=35 drawn
+17:23:41 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:23:41 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667
+17:23:41 peek: area=38x54 desc=false lines=3 drawn
+17:23:57 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:23:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667
+17:23:57 peek: area=38x54 desc=false lines=54 drawn
+17:23:57 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:23:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE-ICONS mtime=1792109667
+17:23:57 peek: area=38x54 desc=false lines=23 drawn
+17:23:57 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:23:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/probe.mjs mtime=1792109667
+17:23:57 peek: area=38x54 desc=false lines=54 drawn
+17:23:57 fresh: stamp=1792109914 ents=33 keylen=60 hit=false hyperlen=nil own=nil
+17:23:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/test-matrix.md mtime=1792109667
+17:23:57 peek: area=38x54 desc=false lines=14 drawn
+17:23:57 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:23:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668
+17:23:57 peek: area=38x54 desc=false lines=15 drawn
+17:26:14 fresh: stamp=1792109914 ents=33 keylen=52 hit=false hyperlen=nil own=nil
+17:26:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=49 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=53 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=50 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=51 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667
+17:26:15 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=53 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668
+17:26:16 fresh: stamp=1792109914 ents=33 keylen=53 hit=false hyperlen=nil own=nil
+17:26:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=57 hit=true hyperlen=25 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668
+17:26:17 fresh: stamp=1792109914 ents=33 keylen=57 hit=true hyperlen=25 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:26:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668
+17:26:18 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:18 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=60 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668
+17:26:19 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:19 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:26:20 peek: area=38x54 desc=true lines=54 drawn
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:26:20 peek: area=38x54 desc=false lines=20 drawn
+17:26:20 fresh: stamp=1792109914 ents=33 keylen=56 hit=false hyperlen=nil own=nil
+17:26:20 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667
+17:26:20 peek: area=38x54 desc=false lines=54 drawn
+17:26:21 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:21 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:26:21 peek: area=38x54 desc=false lines=20 drawn
+17:26:21 fresh: stamp=1792109914 ents=33 keylen=55 hit=true hyperlen=22 own=1792109667
+17:26:21 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667
+17:26:21 peek: area=38x54 desc=true lines=54 drawn
+17:26:30 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:26:30 peek: path=/tmp/bar-test/aaa-child mtime=1792110382
+17:26:30 peek: area=44x28 desc=false lines=3 drawn
+17:26:30 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:26:30 peek: path=/tmp/bar-test/aaa-child mtime=1792110382
+17:26:30 peek: area=44x28 desc=false lines=3 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=20 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=3 drawn
+17:26:37 peek: area=38x54 desc=false lines=54 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792109914
+17:26:37 peek: area=38x54 desc=false lines=29 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/longpass.mjs mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=54 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase1.tape mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=19 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=18 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rustfmt.toml mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=33 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668
+17:26:37 peek: area=38x54 desc=false lines=15 drawn
+17:26:37 fresh: stamp=1792109914 ents=33 keylen=57 hit=false hyperlen=nil own=nil
+17:26:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/stylua.toml mtime=1792109667
+17:26:37 peek: area=38x54 desc=false lines=9 drawn
+17:28:18 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:28:18 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:28:18 peek: area=51x32 desc=false lines=3 drawn
+17:28:45 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:28:45 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:28:45 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:28:45 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:28:45 peek: area=51x32 desc=false lines=3 drawn
+17:28:45 peek: area=51x32 desc=false lines=3 drawn
+17:29:19 fresh: stamp=1792109914 ents=33 keylen=22 hit=false hyperlen=nil own=nil
+17:29:19 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=false
+17:29:19 peek: area=51x32 desc=false lines=32 drawn
+17:29:19 fresh: stamp=1792109914 ents=33 keylen=22 hit=false hyperlen=nil own=nil
+17:29:19 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=false
+17:29:19 peek: area=51x32 desc=false lines=32 drawn
+17:29:28 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:29:28 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:29:28 peek: area=51x32 desc=false lines=3 drawn
+17:29:48 fresh: stamp=1792109914 ents=33 keylen=22 hit=false hyperlen=nil own=nil
+17:29:48 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:29:48 fresh: stamp=1792109914 ents=33 keylen=22 hit=false hyperlen=nil own=nil
+17:29:48 peek: image bar err=bad argument #2 to `Text.area`: error converting Lua table to userdata
+stack traceback:
+	[C]: in method 'area'
+	[string "desc-bar"]:234: in function <[string "desc-bar"]:233>
+	[C]: in global 'pcall'
+	[string "desc-bar"]:233: in function 'desc-bar.peek'
+
+17:29:48 peek: image_show err=bad argument #2: error converting Lua table to Rect
+stack traceback:
+	[C]: in local 'poll'
+	[string "?"]:4: in field 'image_show'
+	[string "desc-bar"]:241: in function <[string "desc-bar"]:240>
+	[C]: in global 'pcall'
+	[string "desc-bar"]:240: in function 'desc-bar.peek'
+
+17:29:48 peek: image bar_h=2 widget=false
+17:29:48 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:29:48 peek: image bar err=bad argument #2 to `Text.area`: error converting Lua table to userdata
+stack traceback:
+	[C]: in method 'area'
+	?: in function <?:233>
+	[C]: in field 'pcall'
+	?: in function 'desc-bar.peek'
+
+17:29:48 peek: image_show err=bad argument #2: error converting Lua table to Rect
+stack traceback:
+	[C]: in local 'poll'
+	[string "?"]:4: in field 'image_show'
+	?: in function <?:240>
+	[C]: in field 'pcall'
+	?: in function 'desc-bar.peek'
+
+17:29:48 peek: image bar_h=2 widget=false
+17:29:57 fresh: stamp=1792109914 ents=33 keylen=23 hit=false hyperlen=nil own=nil
+17:29:57 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:29:57 peek: area=51x32 desc=false lines=3 drawn
+17:30:02 fresh: stamp=1792109914 ents=33 keylen=58 hit=false hyperlen=nil own=nil
+17:30:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668
+17:30:03 fresh: stamp=1792109914 ents=33 keylen=55 hit=false hyperlen=nil own=nil
+17:30:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668
+17:30:07 fresh: stamp=1792109914 ents=33 keylen=59 hit=false hyperlen=nil own=nil
+17:30:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term/src mtime=1792109668
+17:30:09 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:30:09 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668
+17:30:57 fresh: stamp=1792109914 ents=33 keylen=54 hit=false hyperlen=nil own=nil
+17:30:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668
+17:31:21 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:31:21 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:31:21 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:31:21 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:32:58 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:32:58 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:33:35 fresh: stamp=1792110680 ents=34 keylen=23 hit=false hyperlen=nil own=nil
+17:33:35 fresh: stamp=1792110680 ents=34 keylen=23 hit=false hyperlen=nil own=nil
+17:33:35 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:33:35 peek: path=/tmp/bar-test/aaa-child mtime=1792110382 dir=true image=false
+17:33:35 peek: area=51x32 desc=false lines=3 drawn
+17:33:35 peek: area=51x32 desc=false lines=3 drawn
+17:34:24 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:34:24 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:34:24 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:34:24 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:35:33 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:35:33 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:35:33 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:36:02 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:36:02 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:36:02 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:36:02 peek: stage2 begin
+17:36:02 peek: img branch bar_h=2
+17:36:39 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:36:39 fresh: stamp=1792110680 ents=34 keylen=22 hit=false hyperlen=nil own=nil
+17:36:39 peek: path=/tmp/bar-test/some.gif mtime=1792110382 dir=false image=true
+17:36:39 peek: stage2 begin
+17:36:39 peek: img branch bar_h=2
+17:36:45 peek: image bar_h=2 done=true
+17:39:33 fresh: stamp=1792110680 ents=34 keylen=52 hit=false hyperlen=nil own=nil
+17:39:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:39:33 peek: area=38x54 desc=false lines=4 drawn
+17:39:33 fresh: stamp=1792110680 ents=34 keylen=52 hit=false hyperlen=nil own=nil
+17:39:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:39:33 peek: area=38x54 desc=false lines=4 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=49 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=5 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=5 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=50 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=3 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=51 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=8 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=5 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=5 drawn
+17:39:34 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:39:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667 dir=true image=false
+17:39:34 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=13 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=59 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=6 drawn
+17:39:35 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:35 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true image=false
+17:39:35 peek: area=38x54 desc=false lines=5 drawn
+17:39:36 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:39:36 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true image=false
+17:39:36 peek: area=38x54 desc=false lines=5 drawn
+17:39:36 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:36 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true image=false
+17:39:36 peek: area=38x54 desc=false lines=5 drawn
+17:39:37 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true image=false
+17:39:37 peek: area=38x54 desc=false lines=6 drawn
+17:39:37 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:39:37 peek: area=38x54 desc=false lines=6 drawn
+17:39:37 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:39:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true image=false
+17:39:37 peek: area=38x54 desc=false lines=5 drawn
+17:39:37 fresh: stamp=1792110680 ents=34 keylen=59 hit=false hyperlen=nil own=nil
+17:39:37 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true image=false
+17:39:37 peek: area=38x54 desc=false lines=5 drawn
+17:39:44 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:39:44 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true image=false
+17:39:44 peek: area=38x54 desc=false lines=5 drawn
+17:39:44 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:44 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:39:44 peek: area=38x54 desc=false lines=6 drawn
+17:39:44 fresh: stamp=1792110680 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:39:44 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true image=false
+17:39:44 peek: area=38x54 desc=false lines=6 drawn
+17:39:44 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:44 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true image=false
+17:39:44 peek: area=38x54 desc=false lines=5 drawn
+17:39:44 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:39:44 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true image=false
+17:39:44 peek: area=38x54 desc=false lines=5 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=5 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=57 hit=true hyperlen=25 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=true lines=8 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=5 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=5 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=60 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=5 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=6 drawn
+17:39:45 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:39:45 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true image=false
+17:39:45 peek: area=38x54 desc=false lines=5 drawn
+17:39:59 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:39:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true image=false
+17:39:59 peek: area=38x54 desc=false lines=5 drawn
+17:39:59 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:39:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true image=false
+17:39:59 peek: area=38x54 desc=false lines=6 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=true lines=6 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=6 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:00 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true image=false
+17:40:00 peek: area=38x54 desc=false lines=5 drawn
+17:40:01 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true image=false
+17:40:01 peek: area=38x54 desc=false lines=5 drawn
+17:40:01 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true image=false
+17:40:01 peek: area=38x54 desc=false lines=5 drawn
+17:40:01 fresh: stamp=1792110680 ents=34 keylen=55 hit=true hyperlen=22 own=1792109667
+17:40:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false image=false
+17:40:01 peek: area=38x54 desc=true lines=54 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=5 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=5 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=5 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=6 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=5 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=54 hit=false hyperlen=nil own=nil
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=false lines=5 drawn
+17:40:02 fresh: stamp=1792110680 ents=34 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:40:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true image=false
+17:40:02 peek: area=38x54 desc=true lines=6 drawn
+17:40:04 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:40:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true image=false
+17:40:04 peek: area=38x54 desc=false lines=6 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=5 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=5 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=6 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=60 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=5 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=57 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=5 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=false lines=5 drawn
+17:40:05 fresh: stamp=1792110680 ents=34 keylen=57 hit=true hyperlen=25 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:40:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true image=false
+17:40:05 peek: area=38x54 desc=true lines=8 drawn
+17:40:15 fresh: stamp=1792111215 ents=34 keylen=52 hit=false hyperlen=nil own=nil
+17:40:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:40:16 peek: area=38x54 desc=false lines=4 drawn
+17:40:16 fresh: stamp=1792111215 ents=34 keylen=52 hit=false hyperlen=nil own=nil
+17:40:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:40:16 peek: area=38x54 desc=false lines=4 drawn
+17:40:16 fresh: stamp=1792111216 ents=34 keylen=49 hit=false hyperlen=nil own=nil
+17:40:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true image=false
+17:40:16 peek: area=38x54 desc=false lines=5 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=53 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=5 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=50 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=3 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=51 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=8 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=5 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=5 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=58 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=5 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=55 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=6 drawn
+17:40:17 fresh: stamp=1792111216 ents=34 keylen=56 hit=false hyperlen=nil own=nil
+17:40:17 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true image=false
+17:40:17 peek: area=38x54 desc=false lines=6 drawn
+17:42:01 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:01 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:42:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:42:01 peek: area=38x54 desc=false lines=4 drawn
+17:42:01 peek: area=38x54 desc=false lines=4 drawn
+17:42:03 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true image=false
+17:42:03 peek: area=38x54 desc=false lines=5 drawn
+17:42:04 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true image=false
+17:42:04 peek: area=38x54 desc=false lines=6 drawn
+17:42:06 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667 dir=false image=false
+17:42:06 peek: area=38x54 desc=false lines=54 drawn
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792111242 dir=false image=false
+17:42:07 peek: area=38x54 desc=false lines=38 drawn
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false image=false
+17:42:07 peek: area=38x54 desc=false lines=54 drawn
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:42:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/longpass.mjs mtime=1792109667 dir=false image=false
+17:42:07 peek: area=38x54 desc=false lines=54 drawn
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=59 hit=true hyperlen=21 own=1792109668
+17:42:07 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-demo.gif mtime=1792109668 dir=false image=true
+17:42:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668 dir=false image=false
+17:42:07 peek: area=38x54 desc=false lines=15 drawn
+17:42:09 fresh: stamp=1792111242 ents=36 keylen=59 hit=true hyperlen=21 own=1792109668
+17:42:09 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-demo.gif mtime=1792109668 dir=false image=true
+17:42:09 peek: image bar_h=4 done=true
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667 dir=false image=false
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/test-matrix.md mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=18 drawn
+17:42:13 peek: area=38x54 desc=false lines=14 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=18 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/probe.mjs mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=54 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/overrides.tsv mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=27 drawn
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true image=false
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:13 peek: area=38x54 desc=false lines=5 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=54 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=64 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=20 drawn
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667 dir=false image=false
+17:42:13 peek: area=38x54 desc=false lines=54 drawn
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true image=false
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=56 hit=true hyperlen=23 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|build.rs=1792109667|src=1792109667
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true image=false
+17:42:13 peek: area=38x54 desc=false lines=5 drawn
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true image=false
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true image=false
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:13 peek: area=38x54 desc=false lines=5 drawn
+17:42:13 peek: area=38x54 desc=false lines=6 drawn
+17:42:13 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:42:13 peek: area=38x54 desc=false lines=4 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=51 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=8 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=6 drawn
+17:42:14 peek: area=38x54 desc=true lines=8 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=6 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:42:14 peek: area=38x54 desc=false lines=6 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=true lines=6 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=true lines=6 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true image=false
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=57 hit=true hyperlen=23 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true image=false
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true image=false
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:14 peek: area=38x54 desc=true lines=8 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=6 drawn
+17:42:14 peek: area=38x54 desc=false lines=6 drawn
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:14 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true image=false
+17:42:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true image=false
+17:42:14 peek: area=38x54 desc=false lines=5 drawn
+17:42:15 peek: area=38x54 desc=false lines=5 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true image=false
+17:42:15 peek: area=38x54 desc=false lines=5 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true image=false
+17:42:15 peek: area=38x54 desc=false lines=13 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true image=false
+17:42:15 peek: area=38x54 desc=false lines=5 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true image=false
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:42:15 peek: area=38x54 desc=false lines=6 drawn
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true image=false
+17:42:15 peek: area=38x54 desc=false lines=6 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=56 hit=true hyperlen=23 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|build.rs=1792109667|src=1792109667
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true image=false
+17:42:15 peek: area=38x54 desc=true lines=8 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true image=false
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true image=false
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=61 hit=false hyperlen=nil own=nil
+17:42:15 peek: area=38x54 desc=false lines=6 drawn
+17:42:15 peek: area=38x54 desc=false lines=6 drawn
+17:42:15 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667 dir=false image=false
+17:42:15 peek: area=38x54 desc=false lines=23 drawn
+17:42:16 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:42:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668 dir=false image=false
+17:42:16 peek: area=38x54 desc=false lines=15 drawn
+17:42:16 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:42:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CONTRIBUTING.md mtime=1792109667 dir=false image=false
+17:42:16 peek: area=38x54 desc=false lines=54 drawn
+17:42:16 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:42:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-quit.png mtime=1792109668 dir=false image=true
+17:42:16 peek: image bar_h=2 done=true
+17:42:56 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:56 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:42:56 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:42:56 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true image=false
+17:42:56 peek: area=38x54 desc=false lines=4 drawn
+17:42:57 fresh: stamp=1792111242 ents=36 keylen=49 hit=false hyperlen=nil own=nil
+17:42:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true image=false
+17:42:57 peek: area=38x54 desc=false lines=5 drawn
+17:42:57 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:42:57 peek: area=38x54 desc=false lines=4 drawn
+17:42:57 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true image=false
+17:42:57 peek: area=38x54 desc=false lines=5 drawn
+17:47:25 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:47:25 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:47:25 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:47:25 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:47:25 peek: area=34x44 desc=false lines=4 drawn
+17:47:25 peek: area=34x44 desc=false lines=4 drawn
+17:47:25 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:47:25 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:47:25 peek: area=34x44 desc=false lines=4 drawn
+17:47:25 fresh: stamp=1792111242 ents=36 keylen=49 hit=false hyperlen=nil own=nil
+17:47:25 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true
+17:47:25 peek: area=34x44 desc=false lines=5 drawn
+17:47:26 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:47:26 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true
+17:47:26 peek: area=34x44 desc=false lines=5 drawn
+17:47:26 fresh: stamp=1792111242 ents=36 keylen=50 hit=false hyperlen=nil own=nil
+17:47:26 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true
+17:47:26 peek: area=34x44 desc=false lines=3 drawn
+17:47:26 fresh: stamp=1792111242 ents=36 keylen=51 hit=false hyperlen=nil own=nil
+17:47:26 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true
+17:47:26 peek: area=34x44 desc=false lines=8 drawn
+17:47:26 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:47:26 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true
+17:47:26 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=false lines=6 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=56 hit=true hyperlen=23 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|build.rs=1792109667|src=1792109667
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=true lines=9 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=false lines=6 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:47:27 peek: area=34x44 desc=false lines=13 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:27 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:27 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:47:27 peek: area=34x44 desc=false lines=5 drawn
+17:47:28 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:47:28 peek: area=34x44 desc=false lines=5 drawn
+17:47:28 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:47:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true
+17:47:28 peek: area=34x44 desc=false lines=5 drawn
+17:47:28 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true
+17:47:28 peek: area=34x44 desc=false lines=5 drawn
+17:47:28 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:47:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true
+17:47:28 peek: area=34x44 desc=false lines=6 drawn
+17:47:28 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:47:28 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true
+17:47:28 peek: area=34x44 desc=false lines=6 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=false lines=5 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=false lines=5 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=false lines=5 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=57 hit=true hyperlen=23 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=true lines=9 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=false lines=5 drawn
+17:47:29 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:29 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true
+17:47:29 peek: area=34x44 desc=false lines=5 drawn
+17:47:30 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:47:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true
+17:47:30 peek: area=34x44 desc=false lines=5 drawn
+17:47:30 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true
+17:47:30 peek: area=34x44 desc=false lines=6 drawn
+17:47:30 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:47:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true
+17:47:30 peek: area=34x44 desc=false lines=5 drawn
+17:47:30 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true
+17:47:30 peek: area=34x44 desc=false lines=5 drawn
+17:47:31 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:47:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true
+17:47:31 peek: area=34x44 desc=false lines=5 drawn
+17:47:31 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true
+17:47:31 peek: area=34x44 desc=false lines=6 drawn
+17:47:31 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true
+17:47:31 peek: area=34x44 desc=false lines=5 drawn
+17:47:31 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true
+17:47:31 peek: area=34x44 desc=false lines=5 drawn
+17:47:32 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true
+17:47:32 peek: area=34x44 desc=false lines=5 drawn
+17:47:32 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true
+17:47:32 peek: area=34x44 desc=false lines=6 drawn
+17:47:58 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:47:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true
+17:47:58 peek: area=34x44 desc=false lines=5 drawn
+17:47:58 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true
+17:47:58 peek: area=34x44 desc=false lines=5 drawn
+17:47:58 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true
+17:47:58 peek: area=34x44 desc=false lines=6 drawn
+17:47:58 fresh: stamp=1792111242 ents=36 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:47:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true
+17:47:58 peek: area=34x44 desc=true lines=7 drawn
+17:47:58 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true
+17:47:58 peek: area=34x44 desc=false lines=5 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true
+17:47:59 peek: area=34x44 desc=false lines=6 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true
+17:47:59 peek: area=34x44 desc=false lines=5 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true
+17:47:59 peek: area=34x44 desc=false lines=5 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true
+17:47:59 peek: area=34x44 desc=false lines=5 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=55 hit=true hyperlen=22 own=1792109667
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false
+17:47:59 peek: area=34x44 desc=true lines=44 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=55 hit=true hyperlen=22 own=1792109667
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false
+17:47:59 peek: area=34x44 desc=true lines=44 drawn
+17:47:59 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:47:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667 dir=false
+17:47:59 peek: area=34x44 desc=false lines=20 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CHANGELOG.md mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=64 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=61 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CONTRIBUTING.md mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=3 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111680 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792111242 dir=false
+17:48:00 peek: area=34x44 desc=false lines=38 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792111227 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:00 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.nix mtime=1792109667 dir=false
+17:48:00 peek: area=34x44 desc=false lines=44 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667 dir=false
+17:48:01 peek: area=34x44 desc=false lines=23 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE-ICONS mtime=1792109667 dir=false
+17:48:01 peek: area=34x44 desc=false lines=23 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667 dir=false
+17:48:01 peek: area=34x44 desc=false lines=23 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.nix mtime=1792109667 dir=false
+17:48:01 peek: area=34x44 desc=false lines=44 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false
+17:48:01 peek: area=34x44 desc=false lines=44 drawn
+17:48:01 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792111227 dir=false
+17:48:01 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792111242 dir=false
+17:48:02 peek: area=34x44 desc=false lines=38 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111682 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=3 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=61 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CONTRIBUTING.md mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=64 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CHANGELOG.md mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=false lines=20 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=55 hit=true hyperlen=22 own=1792109667
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false
+17:48:02 peek: area=34x44 desc=true lines=44 drawn
+17:48:02 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true
+17:48:02 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=6 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=true lines=7 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=6 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=6 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=60 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:03 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true
+17:48:03 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=57 hit=true hyperlen=23 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=true lines=9 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=6 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=6 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=59 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=13 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=57 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:48:04 peek: area=34x44 desc=false lines=13 drawn
+17:48:04 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true
+17:48:04 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=54 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=6 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=56 hit=true hyperlen=23 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|build.rs=1792109667|src=1792109667
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=true lines=9 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=55 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=6 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=58 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=51 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=8 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=50 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=3 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=49 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=5 drawn
+17:48:05 fresh: stamp=1792111242 ents=36 keylen=52 hit=false hyperlen=nil own=nil
+17:48:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:48:05 peek: area=34x44 desc=false lines=4 drawn
+17:48:06 fresh: stamp=1792111242 ents=36 keylen=49 hit=false hyperlen=nil own=nil
+17:48:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true
+17:48:06 peek: area=34x44 desc=false lines=5 drawn
+17:48:06 fresh: stamp=1792111242 ents=36 keylen=53 hit=false hyperlen=nil own=nil
+17:48:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true
+17:48:06 peek: area=34x44 desc=false lines=5 drawn
+17:48:06 fresh: stamp=1792111242 ents=36 keylen=50 hit=false hyperlen=nil own=nil
+17:48:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true
+17:48:06 peek: area=34x44 desc=false lines=3 drawn
+17:48:06 fresh: stamp=1792111242 ents=36 keylen=51 hit=false hyperlen=nil own=nil
+17:48:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true
+17:48:06 peek: area=34x44 desc=false lines=8 drawn
+17:48:07 fresh: stamp=1792111242 ents=36 keylen=56 hit=false hyperlen=nil own=nil
+17:48:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true
+17:48:07 peek: area=34x44 desc=false lines=5 drawn
+17:49:58 fresh: stamp=1792111699 ents=37 keylen=52 hit=false hyperlen=nil own=nil
+17:49:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:49:58 fresh: stamp=1792111699 ents=37 keylen=52 hit=false hyperlen=nil own=nil
+17:49:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:49:58 peek: area=34x44 desc=false lines=4 drawn
+17:49:58 fresh: stamp=1792111699 ents=37 keylen=52 hit=false hyperlen=nil own=nil
+17:49:58 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:49:58 peek: area=34x44 desc=false lines=4 drawn
+17:49:59 fresh: stamp=1792111699 ents=37 keylen=49 hit=false hyperlen=nil own=nil
+17:49:59 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true
+17:49:59 peek: area=34x44 desc=false lines=5 drawn
+17:50:00 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scripts mtime=1792109667 dir=true
+17:50:00 peek: area=34x44 desc=false lines=5 drawn
+17:50:00 fresh: stamp=1792111699 ents=37 keylen=50 hit=false hyperlen=nil own=nil
+17:50:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/snap mtime=1792109667 dir=true
+17:50:00 peek: area=34x44 desc=false lines=3 drawn
+17:50:00 fresh: stamp=1792111699 ents=37 keylen=51 hit=false hyperlen=nil own=nil
+17:50:00 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/tests mtime=1792109667 dir=true
+17:50:00 peek: area=34x44 desc=false lines=8 drawn
+17:50:01 fresh: stamp=1792111699 ents=37 keylen=56 hit=true hyperlen=22 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|src=1792109667
+17:50:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-actor mtime=1792109667 dir=true
+17:50:01 peek: area=34x44 desc=true lines=7 drawn
+17:50:01 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-adapter mtime=1792109667 dir=true
+17:50:01 peek: area=34x44 desc=false lines=5 drawn
+17:50:01 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-binding mtime=1792109667 dir=true
+17:50:01 peek: area=34x44 desc=false lines=5 drawn
+17:50:01 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:01 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-boot mtime=1792109667 dir=true
+17:50:02 peek: area=34x44 desc=false lines=6 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=56 hit=true hyperlen=23 own=1792109667|Cargo.toml=1792109667|README.md=1792109667|build.rs=1792109667|src=1792109667
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-build mtime=1792109667 dir=true
+17:50:02 peek: area=34x44 desc=true lines=9 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true
+17:50:02 peek: area=34x44 desc=false lines=6 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=13 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=6 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=6 drawn
+17:50:02 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:02 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true
+17:50:02 peek: area=34x44 desc=false lines=5 drawn
+17:50:03 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true
+17:50:03 peek: area=34x44 desc=false lines=5 drawn
+17:50:03 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:03 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true
+17:50:03 peek: area=34x44 desc=false lines=5 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=5 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=5 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=6 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=6 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=5 drawn
+17:50:04 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:04 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true
+17:50:04 peek: area=34x44 desc=false lines=5 drawn
+17:50:05 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:50:05 peek: area=34x44 desc=false lines=5 drawn
+17:50:05 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:50:05 peek: area=34x44 desc=false lines=5 drawn
+17:50:05 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:50:05 peek: area=34x44 desc=false lines=13 drawn
+17:50:05 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true
+17:50:05 peek: area=34x44 desc=false lines=5 drawn
+17:50:05 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:05 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-cli mtime=1792109667 dir=true
+17:50:05 peek: area=34x44 desc=false lines=6 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-codegen mtime=1792109667 dir=true
+17:50:06 peek: area=34x44 desc=false lines=5 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-config mtime=1792109668 dir=true
+17:50:06 peek: area=34x44 desc=false lines=13 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-core mtime=1792109668 dir=true
+17:50:06 peek: area=34x44 desc=false lines=5 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-dds mtime=1792109668 dir=true
+17:50:06 peek: area=34x44 desc=false lines=5 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-emulator mtime=1792109668 dir=true
+17:50:06 peek: area=34x44 desc=false lines=5 drawn
+17:50:06 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:06 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-ffi mtime=1792109668 dir=true
+17:50:06 peek: area=34x44 desc=false lines=5 drawn
+17:50:07 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fm mtime=1792109668 dir=true
+17:50:07 peek: area=34x44 desc=false lines=6 drawn
+17:50:07 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-fs mtime=1792109668 dir=true
+17:50:07 peek: area=34x44 desc=false lines=6 drawn
+17:50:07 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-macro mtime=1792109668 dir=true
+17:50:07 peek: area=34x44 desc=false lines=5 drawn
+17:50:07 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-packing mtime=1792109668 dir=true
+17:50:07 peek: area=34x44 desc=false lines=5 drawn
+17:50:07 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:07 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-parser mtime=1792109668 dir=true
+17:50:07 peek: area=34x44 desc=false lines=5 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=57 hit=true hyperlen=23 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|preset=1792109668|src=1792109668
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-plugin mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=true lines=9 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-proxy mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=false lines=5 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-runner mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=false lines=5 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-scheduler mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=false lines=5 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-sftp mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=false lines=6 drawn
+17:50:08 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:08 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shared mtime=1792109668 dir=true
+17:50:08 peek: area=34x44 desc=false lines=5 drawn
+17:50:09 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:09 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true
+17:50:09 peek: area=34x44 desc=false lines=5 drawn
+17:50:09 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:09 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true
+17:50:09 peek: area=34x44 desc=false lines=6 drawn
+17:50:10 fresh: stamp=1792111699 ents=37 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:50:10 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true
+17:50:10 peek: area=34x44 desc=true lines=7 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true
+17:50:11 peek: area=34x44 desc=false lines=5 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true
+17:50:11 peek: area=34x44 desc=false lines=6 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true
+17:50:11 peek: area=34x44 desc=false lines=5 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true
+17:50:11 peek: area=34x44 desc=false lines=5 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true
+17:50:11 peek: area=34x44 desc=false lines=5 drawn
+17:50:11 fresh: stamp=1792111699 ents=37 keylen=55 hit=true hyperlen=22 own=1792109667
+17:50:11 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false
+17:50:11 peek: area=34x44 desc=true lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=20 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CHANGELOG.md mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=64 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=61 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CONTRIBUTING.md mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=3 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111812 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111812 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:12 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:12 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667 dir=false
+17:50:12 peek: area=34x44 desc=false lines=44 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792111699 dir=false
+17:50:13 peek: area=34x44 desc=false lines=39 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792111699 dir=false
+17:50:13 peek: area=34x44 desc=false lines=44 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=44 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.nix mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=44 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=23 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE-ICONS mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=23 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/longpass.mjs mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=44 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/overrides.tsv mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=27 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase1.tape mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=19 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase2.tape mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=15 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=18 drawn
+17:50:13 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:13 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/probe.mjs mtime=1792109667 dir=false
+17:50:13 peek: area=34x44 desc=false lines=44 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/README.md mtime=1792109667 dir=false
+17:50:14 peek: area=34x44 desc=false lines=44 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rewrite.mjs mtime=1792111204 dir=false
+17:50:14 peek: area=34x44 desc=false lines=44 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rustfmt.toml mtime=1792109667 dir=false
+17:50:14 peek: area=34x44 desc=false lines=33 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scan-staged.sh mtime=1792109667 dir=false
+17:50:14 peek: area=34x44 desc=false lines=44 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/stylua.toml mtime=1792109667 dir=false
+17:50:14 peek: area=34x44 desc=false lines=9 drawn
+17:50:14 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:14 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/test-matrix.md mtime=1792109667 dir=false
+17:50:14 peek: area=34x44 desc=false lines=14 drawn
+17:50:15 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668 dir=false
+17:50:15 peek: area=34x44 desc=false lines=15 drawn
+17:50:15 fresh: stamp=1792111699 ents=37 keylen=52 hit=false hyperlen=nil own=nil
+17:50:15 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:50:15 peek: area=34x44 desc=false lines=4 drawn
+17:50:16 fresh: stamp=1792111699 ents=37 keylen=49 hit=false hyperlen=nil own=nil
+17:50:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/nix mtime=1792109667 dir=true
+17:50:16 peek: area=34x44 desc=false lines=5 drawn
+17:50:16 fresh: stamp=1792111699 ents=37 keylen=52 hit=false hyperlen=nil own=nil
+17:50:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/assets mtime=1792109667 dir=true
+17:50:16 peek: area=34x44 desc=false lines=4 drawn
+17:50:16 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:16 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi.tape mtime=1792109668 dir=false
+17:50:16 peek: area=34x44 desc=false lines=15 drawn
+17:50:30 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/test-matrix.md mtime=1792109667 dir=false
+17:50:30 peek: area=34x44 desc=false lines=14 drawn
+17:50:30 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:30 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/stylua.toml mtime=1792109667 dir=false
+17:50:30 peek: area=34x44 desc=false lines=9 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/scan-staged.sh mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=44 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rustfmt.toml mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=33 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/rewrite.mjs mtime=1792111204 dir=false
+17:50:31 peek: area=34x44 desc=false lines=44 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/README.md mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=44 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/probe.mjs mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=44 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase5.tape mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=18 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase2.tape mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=15 drawn
+17:50:31 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:31 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/phase1.tape mtime=1792109667 dir=false
+17:50:31 peek: area=34x44 desc=false lines=19 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/overrides.tsv mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=27 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/longpass.mjs mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE-ICONS mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=23 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=53 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/LICENSE mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=23 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.nix mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/flake.lock mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-row.log mtime=1792111699 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=60 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-cache.tsv mtime=1792111699 dir=false
+17:50:32 peek: area=34x44 desc=false lines=39 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=59 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bulk.log mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111832 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/desc-bar.log mtime=1792111832 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=57 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/cspell.json mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=3 drawn
+17:50:32 fresh: stamp=1792111699 ents=37 keylen=61 hit=false hyperlen=nil own=nil
+17:50:32 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CONTRIBUTING.md mtime=1792109667 dir=false
+17:50:32 peek: area=34x44 desc=false lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=64 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CODE_OF_CONDUCT.md mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=false lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/CHANGELOG.md mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=false lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.toml mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=false lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=56 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/Cargo.lock mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=false lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/bulk.tape mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=false lines=20 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=55 hit=true hyperlen=22 own=1792109667
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/AGENTS.md mtime=1792109667 dir=false
+17:50:33 peek: area=34x44 desc=true lines=44 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-widgets mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=false lines=5 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-watcher mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=false lines=5 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-vfs mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=false lines=5 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=58 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-version mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=false lines=6 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=54 hit=false hyperlen=nil own=nil
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tui mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=false lines=5 drawn
+17:50:33 fresh: stamp=1792111699 ents=37 keylen=54 hit=true hyperlen=26 own=1792109668|Cargo.toml=1792109668|README.md=1792109668|src=1792109668
+17:50:33 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-tty mtime=1792109668 dir=true
+17:50:33 peek: area=34x44 desc=true lines=7 drawn
+17:50:34 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-term mtime=1792109668 dir=true
+17:50:34 peek: area=34x44 desc=false lines=6 drawn
+17:50:34 fresh: stamp=1792111699 ents=37 keylen=55 hit=false hyperlen=nil own=nil
+17:50:34 peek: path=/Users/robinshaw/Code/yazi/spike-descriptions/yazi-shim mtime=1792109668 dir=true
+17:50:34 peek: area=34x44 desc=false lines=5 drawn
