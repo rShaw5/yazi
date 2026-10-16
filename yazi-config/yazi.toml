@@ -1,0 +1,14 @@
+[mgr]
+linemode = "desc"
+
+[plugin]
+# desc-bar draws the full description as an autosized bar on top of the
+# preview area, then renders content below it via ya.preview_code. Only
+# codeable/text types are matched here: image/video/system previews stay
+# stock. Monospace wrap widths assume text existing in one line.
+prepend_previewers = [
+  { mime = "text/*", run = "desc-bar" },
+  { mime = "application/json", run = "desc-bar" },
+  { mime = "application/yaml", run = "desc-bar" },
+  { mime = "application/toml", run = "desc-bar" },
+]

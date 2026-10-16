@@ -1,0 +1,8 @@
+[mgr]
+prepend_keymap = [
+  { on = "T", run = "plugin desc-popup", desc = "Full description popup" },
+  { on = "e", run = "plugin desc-menu", desc = "Describe row: my words or agent hint" },
+  { on = ["m", "r"], run = "plugin desc-row", desc = "Re-summarize hovered row" },
+  { on = ["m", "R"], run = "plugin desc-bulk", desc = "Re-summarize folder or selected rows" },
+  { on = ["M", "R"], run = "plugin desc-bulk", desc = "Re-summarize folder or selected rows" },
+]
