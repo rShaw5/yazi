@@ -1,0 +1,31 @@
+/Users/robinshaw/Code/eza-experiment/broot-demo.gif	1791741900	Nearly black empty frame	The image looks almost fully black except for a tiny white mark in the top-left corner.
+/Users/robinshaw/Code/eza-experiment/broot-still.png	1791741900	Terminal file tree view	The screen shows a dark terminal file browser listing folders and files inside the planning-system directory.
+/Users/robinshaw/Code/eza-experiment/broot.tape	1791741863	Terminal demo script for	It types commands to record a broot navigation demo in this folder.
+/Users/robinshaw/Code/eza-experiment/bulk.tape	1791772533	Two-line browser blurb —	Automated Yazi bulk test
+/Users/robinshaw/Code/eza-experiment/compare.html	1791752469	Parked yazi-broot browser comparison	This page shows real 2026-10-11 screenshots that picked yazi over broot for the descriptive-tree test and is now parked unless yazi fails.
+/Users/robinshaw/Code/eza-experiment/desc-bar.log	1792096388	Describing that log in	Preview activity trace log
+/Users/robinshaw/Code/eza-experiment/desc-bulk.log	1792096432	Repeated failed bulk attempts	This log records repeated failed runs that hit a nil-to-table error and then skipped files outside the root folder.
+/Users/robinshaw/Code/eza-experiment/desc-cache.tsv	1792096452	Two-line blurb coming —	Cached file description store
+/Users/robinshaw/Code/eza-experiment/desc-row.log	1792095115	Two-line browser blurb —	Experiment hover log
+/Users/robinshaw/Code/eza-experiment/incubator.md	1791742400	Benched broot backup plan	It explains why broot lost to yazi and when Robin should bring it back.
+/Users/robinshaw/Code/eza-experiment/longpass.mjs	1792094773	Batch cache long-description filler	It scans the cache for rows missing long descriptions and fills them in batches by calling an outside agent.
+/Users/robinshaw/Code/eza-experiment/overrides.tsv	1792088914	Describing your override file	File display overrides list
+/Users/robinshaw/Code/eza-experiment/phase1.tape	1791742400	Yazi demo tape script	This script opens Yazi in a terminal, moves around, quits, and saves a screenshot.
+/Users/robinshaw/Code/eza-experiment/phase2.tape	1791744895	First reply needs the	Yazi demo recording script
+/Users/robinshaw/Code/eza-experiment/phase5.tape	1791750451	Yazi demo tape script	It records a terminal session opening Yazi in the planning-system folder to make a demo GIF.
+/Users/robinshaw/Code/eza-experiment/probe.mjs	1792094293	Deterministic stub description generator	It scans the top two levels of a folder and writes short cached descriptions to a TSV file, skipping unchanged files on later runs.
+/Users/robinshaw/Code/eza-experiment/rewrite.mjs	1792094308	Agent row rewriter	It calls an outside helper to rewrite one saved file description and shows a temporary marker while it works.
+/Users/robinshaw/Code/eza-experiment/scan-staged.sh	1791740809	Staged credential scanner	It checks added lines in staged git changes for secret-like patterns and reports hits by file without showing the values.
+/Users/robinshaw/Code/eza-experiment/test-matrix.md	1791742479	Yazi Phase 1 results	All six Phase 1 checks for yazi passed with screenshots and recordings as proof, so the test moved to Phase 2.
+/Users/robinshaw/Code/eza-experiment/tests	1792093626|hints.test.mjs=1791759449|longpass.test.mjs=1792094759|probe-preserve.test.mjs=1792093786|rewrite.test.mjs=1792092482|test.todo=1792087601|verbatim.test.mjs=1791758286	Experiment test scripts	These files hold tests for hints, rewrites, and other checks in the eza experiment.
+/Users/robinshaw/Code/eza-experiment/walkthrough.html	1791752469	Yazi file-browser test results	This page walks through an October 2026 test showing that Yazi can display one-line AI descriptions next to files.
+/Users/robinshaw/Code/eza-experiment/yazi-config	1791750443|flavors=1791750023|init.lua=1792093095|keymap.toml=1792089387|package.toml=1791750023|plugins=1792090683|theme.toml=1791750029|yazi.toml=1792090918	Two-line browser blurb —	Yazi file manager config
+/Users/robinshaw/Code/eza-experiment/yazi-demo.gif	1791741673	Nearly blank terminal prompt	The image shows a mostly black screen with only a small "> y" prompt in the top-left corner.
+/Users/robinshaw/Code/eza-experiment/yazi-phase1.gif	1791742426	I'll read the GIF	Almost black screen
+/Users/robinshaw/Code/eza-experiment/yazi-phase2.gif	1791751805	I'll examine the GIF	Black screen with prompt
+/Users/robinshaw/Code/eza-experiment/yazi-phase5.gif	1791750492	Reading the GIF for	Black empty screen
+/Users/robinshaw/Code/eza-experiment/yazi-popup.png	1791750493	Yazi browsing project folders	A dark terminal shows a three-pane Yazi file browser inside the planning-system folder with the plans directory highlighted.
+/Users/robinshaw/Code/eza-experiment/yazi-quit.png	1791742426	Terminal after exiting Yazi	The black terminal shows the yazi command, the echo command output, and a fresh prompt.
+/Users/robinshaw/Code/eza-experiment/yazi-spike.png	1791751805	Yazi browsing planning-system folders	The screenshot shows a three-pane Yazi file browser with the governance folder highlighted and its adr and sop subfolders visible.
+/Users/robinshaw/Code/eza-experiment/yazi-still.png	1791741673	Yazi browsing governance ADRs	The screen shows a three-pane terminal file manager open to the governance folder with the adr subfolder highlighted and nine numbered markdown files listed on the right.
+/Users/robinshaw/Code/eza-experiment/yazi.tape	1791741605	Yazi demo automation script	This file automates a terminal recording that opens yazi and captures screenshots for a demo.

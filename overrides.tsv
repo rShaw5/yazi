@@ -1,0 +1,25 @@
+.claude	verbatim	Claude Code commands and skills
+.claude/commands	verbatim	plan command
+.claude/skills	verbatim	planning-system skill for Claude
+.opencode	verbatim	OpenCode settings and agents
+.opencode/agents	verbatim	plan reviewer agent
+README.md	verbatim	repo overview
+SKILL.md	verbatim	shared planning skill
+evals	verbatim	planning eval cases
+evals/evals.json	verbatim	planning eval prompts
+governance	verbatim	decision records and procedures
+governance/sop	verbatim	procedures folder, empty
+plans/archive	verbatim	retired plans
+research-cache/entries	verbatim	saved research notes
+scripts	verbatim	helper scripts
+skills	verbatim	agent skills
+tests/helpers	verbatim	test helpers
+tests/suites	verbatim	test suites
+workspace	verbatim	planning workspace
+workspace/iteration-2	verbatim	skill benchmark evals
+workspace/iteration-3	verbatim	skill benchmark evals
+workspace/iteration-4	verbatim	skill benchmark evals
+workspace/iteration-5	verbatim	skill benchmark evals
+workspace/skill-snapshot	verbatim	skill snapshot
+workspace/skill-snapshot-2026-10-07-SKILL.md	verbatim	SKILL snapshot
+workspace/skill-snapshot-SKILL.md	verbatim	SKILL snapshot
