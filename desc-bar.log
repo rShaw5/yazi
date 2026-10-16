@@ -1,0 +1,351 @@
+13:11:52 fresh: stamp=nil ents=0 keylen=48 hit=false hyperlen=nil own=nil
+13:11:52 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:11:52 peek: area=34x44 desc=false lines=14 drawn
+13:11:52 fresh: stamp=nil ents=0 keylen=48 hit=false hyperlen=nil own=nil
+13:11:52 peek: path=/Users/robinshaw/Code/eza-experiment/phase5.tape mtime=1791750451
+13:11:52 peek: area=34x44 desc=false lines=17 drawn
+13:11:53 fresh: stamp=nil ents=0 keylen=48 hit=false hyperlen=nil own=nil
+13:11:53 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:11:53 peek: area=34x44 desc=false lines=14 drawn
+13:11:53 fresh: stamp=nil ents=0 keylen=48 hit=false hyperlen=nil own=nil
+13:11:53 peek: path=/Users/robinshaw/Code/eza-experiment/phase1.tape mtime=1791742400
+13:11:53 peek: area=34x44 desc=false lines=18 drawn
+13:32:54 fresh: stamp=1792096368 ents=31 keylen=47 hit=true hyperlen=29 own=1791741863
+13:32:54 peek: path=/Users/robinshaw/Code/eza-experiment/broot.tape mtime=1791741863
+13:32:54 peek: area=34x44 desc=true lines=18 drawn
+13:32:54 fresh: stamp=1792096368 ents=31 keylen=46 hit=true hyperlen=29 own=1791772533
+13:32:54 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:32:54 peek: area=34x44 desc=true lines=20 drawn
+13:32:54 fresh: stamp=1792096368 ents=31 keylen=49 hit=true hyperlen=29 own=1791752469
+13:32:54 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:32:54 peek: area=34x44 desc=true lines=44 drawn
+13:32:54 fresh: stamp=1792096368 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:54 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096374
+13:32:54 peek: area=34x44 desc=false lines=24 drawn
+13:32:55 fresh: stamp=1792096368 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096374
+13:32:55 peek: area=34x44 desc=false lines=27 drawn
+13:32:55 fresh: stamp=1792096368 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096368
+13:32:55 peek: area=34x44 desc=false lines=44 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=44 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=44 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=39 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=42 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=44 drawn
+13:32:55 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:55 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096375
+13:32:55 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096375
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:56 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:56 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:56 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096376
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:57 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:57 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:57 peek: area=34x44 desc=false lines=44 drawn
+13:32:58 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:58 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096377
+13:32:58 peek: area=34x44 desc=false lines=44 drawn
+13:32:58 fresh: stamp=1792096375 ents=31 keylen=49 hit=true hyperlen=29 own=1791752469
+13:32:58 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:32:58 peek: area=34x44 desc=true lines=44 drawn
+13:32:58 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:58 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096378
+13:32:58 peek: area=34x44 desc=false lines=44 drawn
+13:32:58 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:58 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096378
+13:32:58 peek: area=34x44 desc=false lines=44 drawn
+13:32:58 fresh: stamp=1792096378 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:32:58 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096378
+13:32:58 peek: area=34x44 desc=false lines=44 drawn
+13:32:59 fresh: stamp=1792096378 ents=31 keylen=51 hit=true hyperlen=29 own=1792096313
+13:32:59 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096378
+13:32:59 peek: area=34x44 desc=false lines=32 drawn
+13:32:59 fresh: stamp=1792096378 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:32:59 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096378
+13:32:59 peek: area=34x44 desc=false lines=44 drawn
+13:32:59 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:59 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096379
+13:32:59 peek: area=34x44 desc=false lines=44 drawn
+13:32:59 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:32:59 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096379
+13:32:59 peek: area=34x44 desc=false lines=44 drawn
+13:33:00 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1791752469
+13:33:00 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:33:00 peek: area=34x44 desc=true lines=44 drawn
+13:33:00 fresh: stamp=1792096378 ents=31 keylen=46 hit=true hyperlen=26 own=1791772533
+13:33:00 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:33:00 peek: area=34x44 desc=true lines=20 drawn
+13:33:00 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1791752469
+13:33:00 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:33:00 peek: area=34x44 desc=true lines=44 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096380
+13:33:01 peek: area=34x44 desc=false lines=44 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096381
+13:33:01 peek: area=34x44 desc=false lines=44 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096378
+13:33:01 peek: area=34x44 desc=false lines=44 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=51 hit=true hyperlen=29 own=1792096313
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096378
+13:33:01 peek: area=34x44 desc=false lines=32 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095115
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/desc-row.log mtime=1792095115
+13:33:01 peek: area=34x44 desc=true lines=5 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1791742400
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/incubator.md mtime=1791742400
+13:33:01 peek: area=34x44 desc=true lines=16 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792094773
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:33:01 peek: area=34x44 desc=true lines=44 drawn
+13:33:01 fresh: stamp=1792096378 ents=31 keylen=50 hit=true hyperlen=29 own=1792088914
+13:33:01 peek: path=/Users/robinshaw/Code/eza-experiment/overrides.tsv mtime=1792088914
+13:33:01 peek: area=34x44 desc=true lines=27 drawn
+13:33:02 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792094773
+13:33:02 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:33:02 peek: area=34x44 desc=true lines=44 drawn
+13:33:02 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1791742400
+13:33:02 peek: path=/Users/robinshaw/Code/eza-experiment/incubator.md mtime=1791742400
+13:33:02 peek: area=34x44 desc=true lines=16 drawn
+13:33:02 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095115
+13:33:02 peek: path=/Users/robinshaw/Code/eza-experiment/desc-row.log mtime=1792095115
+13:33:02 peek: area=34x44 desc=true lines=5 drawn
+13:33:03 fresh: stamp=1792096378 ents=31 keylen=51 hit=true hyperlen=29 own=1792096313
+13:33:03 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096378
+13:33:03 peek: area=34x44 desc=false lines=32 drawn
+13:33:03 fresh: stamp=1792096378 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:03 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096378
+13:33:03 peek: area=34x44 desc=false lines=44 drawn
+13:33:03 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:03 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096383
+13:33:03 peek: area=34x44 desc=false lines=44 drawn
+13:33:04 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:04 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096383
+13:33:04 peek: area=34x44 desc=false lines=44 drawn
+13:33:04 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:04 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096384
+13:33:04 peek: area=34x44 desc=false lines=44 drawn
+13:33:04 fresh: stamp=1792096378 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:04 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096384
+13:33:04 peek: area=34x44 desc=false lines=44 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096378
+13:33:05 peek: area=34x44 desc=false lines=44 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096385
+13:33:05 peek: area=34x44 desc=false lines=44 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096385
+13:33:05 peek: area=34x44 desc=false lines=44 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096385
+13:33:05 peek: area=34x44 desc=false lines=44 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=51 hit=true hyperlen=29 own=1792096313
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096385
+13:33:05 peek: area=34x44 desc=false lines=32 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792095115
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/desc-row.log mtime=1792095115
+13:33:05 peek: area=34x44 desc=true lines=5 drawn
+13:33:05 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1791742400
+13:33:05 peek: path=/Users/robinshaw/Code/eza-experiment/incubator.md mtime=1791742400
+13:33:05 peek: area=34x44 desc=true lines=16 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792094773
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:33:06 peek: area=34x44 desc=true lines=44 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792094773
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:33:06 peek: area=34x44 desc=true lines=44 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792088914
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/overrides.tsv mtime=1792088914
+13:33:06 peek: area=34x44 desc=true lines=27 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791742400
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/phase1.tape mtime=1791742400
+13:33:06 peek: area=34x44 desc=true lines=19 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791742400
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/phase1.tape mtime=1791742400
+13:33:06 peek: area=34x44 desc=true lines=19 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791744895
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791744895
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:33:06 peek: area=34x44 desc=true lines=15 drawn
+13:33:06 peek: area=34x44 desc=true lines=15 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791750451
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/phase5.tape mtime=1791750451
+13:33:06 peek: area=34x44 desc=true lines=18 drawn
+13:33:06 fresh: stamp=1792096385 ents=31 keylen=46 hit=true hyperlen=40 own=1792094293
+13:33:06 peek: path=/Users/robinshaw/Code/eza-experiment/probe.mjs mtime=1792094293
+13:33:06 peek: area=34x44 desc=true lines=44 drawn
+13:33:07 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791750451
+13:33:07 peek: path=/Users/robinshaw/Code/eza-experiment/phase5.tape mtime=1791750451
+13:33:07 peek: area=34x44 desc=true lines=18 drawn
+13:33:07 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791750451
+13:33:07 peek: path=/Users/robinshaw/Code/eza-experiment/phase5.tape mtime=1791750451
+13:33:07 peek: area=34x44 desc=true lines=18 drawn
+13:33:07 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791744895
+13:33:07 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:33:07 peek: area=34x44 desc=true lines=15 drawn
+13:33:07 fresh: stamp=1792096385 ents=31 keylen=48 hit=true hyperlen=29 own=1791742400
+13:33:07 peek: path=/Users/robinshaw/Code/eza-experiment/phase1.tape mtime=1791742400
+13:33:07 peek: area=34x44 desc=true lines=19 drawn
+13:33:07 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792088914
+13:33:07 peek: path=/Users/robinshaw/Code/eza-experiment/overrides.tsv mtime=1792088914
+13:33:07 peek: area=34x44 desc=true lines=27 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792094773
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:33:08 peek: area=34x44 desc=true lines=44 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1791742400
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/incubator.md mtime=1791742400
+13:33:08 peek: area=34x44 desc=true lines=16 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792095115
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/desc-row.log mtime=1792095115
+13:33:08 peek: area=34x44 desc=true lines=5 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=51 hit=true hyperlen=29 own=1792096313
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096385
+13:33:08 peek: area=34x44 desc=false lines=32 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=50 hit=true hyperlen=29 own=1792096362
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096385
+13:33:08 peek: area=34x44 desc=false lines=44 drawn
+13:33:08 fresh: stamp=1792096385 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096388
+13:33:08 peek: area=34x44 desc=false lines=44 drawn
+13:33:08 fresh: stamp=1792096388 ents=31 keylen=49 hit=true hyperlen=29 own=1792095113
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096388
+13:33:08 peek: area=34x44 desc=false lines=44 drawn
+13:33:08 fresh: stamp=1792096388 ents=31 keylen=49 hit=true hyperlen=36 own=1791752469
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:33:08 peek: area=34x44 desc=true lines=44 drawn
+13:33:08 fresh: stamp=1792096388 ents=31 keylen=46 hit=true hyperlen=26 own=1791772533
+13:33:08 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:33:08 peek: area=34x44 desc=true lines=20 drawn
+13:35:47 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:47 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:47 peek: area=35x44 desc=true lines=20 drawn
+13:35:47 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:47 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:47 peek: area=61x44 desc=true lines=20 drawn
+13:35:47 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:47 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:47 peek: area=69x44 desc=true lines=20 drawn
+13:35:53 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:53 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:53 peek: area=69x44 desc=true lines=20 drawn
+13:35:53 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:53 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:53 peek: area=45x44 desc=true lines=20 drawn
+13:35:53 fresh: stamp=1792096493 ents=21 keylen=46 hit=true hyperlen=26 own=1791772533
+13:35:53 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:35:53 peek: area=34x44 desc=true lines=20 drawn
+13:40:44 fresh: stamp=1792096841 ents=22 keylen=47 hit=true hyperlen=24 own=1791741863
+13:40:44 peek: path=/Users/robinshaw/Code/eza-experiment/broot.tape mtime=1791741863
+13:40:44 peek: area=34x44 desc=true lines=20 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=46 hit=true hyperlen=26 own=1791772533
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/bulk.tape mtime=1791772533
+13:40:45 peek: area=34x44 desc=true lines=20 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=49 hit=true hyperlen=36 own=1791752469
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/compare.html mtime=1791752469
+13:40:45 peek: area=34x44 desc=true lines=44 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=49 hit=true hyperlen=22 own=1792096388
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bar.log mtime=1792096845
+13:40:45 peek: area=34x44 desc=false lines=44 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=50 hit=true hyperlen=29 own=1792096432
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/desc-bulk.log mtime=1792096493
+13:40:45 peek: area=34x44 desc=false lines=44 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=51 hit=true hyperlen=25 own=1792096452
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/desc-cache.tsv mtime=1792096841
+13:40:45 peek: area=34x44 desc=false lines=23 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=49 hit=true hyperlen=26 own=1792095115
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/desc-row.log mtime=1792096841
+13:40:45 peek: area=34x44 desc=false lines=10 drawn
+13:40:45 fresh: stamp=1792096841 ents=22 keylen=49 hit=true hyperlen=25 own=1791742400
+13:40:45 peek: path=/Users/robinshaw/Code/eza-experiment/incubator.md mtime=1791742400
+13:40:45 peek: area=34x44 desc=true lines=18 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=49 hit=true hyperlen=35 own=1792094773
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/longpass.mjs mtime=1792094773
+13:40:46 peek: area=34x44 desc=true lines=44 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=50 hit=true hyperlen=29 own=1792088914
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/overrides.tsv mtime=1792088914
+13:40:46 peek: area=34x44 desc=true lines=27 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=48 hit=true hyperlen=21 own=1791742400
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/phase1.tape mtime=1791742400
+13:40:46 peek: area=34x44 desc=true lines=21 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=48 hit=true hyperlen=21 own=1791744895
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/phase2.tape mtime=1791744895
+13:40:46 peek: area=34x44 desc=true lines=15 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=48 hit=true hyperlen=21 own=1791750451
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/phase5.tape mtime=1791750451
+13:40:46 peek: area=34x44 desc=true lines=21 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=46 hit=true hyperlen=40 own=1792094293
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/probe.mjs mtime=1792094293
+13:40:46 peek: area=34x44 desc=true lines=44 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=48 hit=true hyperlen=18 own=1792094308
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/rewrite.mjs mtime=1792096727
+13:40:46 peek: area=34x44 desc=false lines=44 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=51 hit=true hyperlen=25 own=1791740809
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/scan-staged.sh mtime=1791740809
+13:40:46 peek: area=34x44 desc=true lines=44 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=51 hit=true hyperlen=20 own=1791742479
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/test-matrix.md mtime=1791742479
+13:40:46 peek: area=34x44 desc=true lines=17 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=46 hit=false hyperlen=nil own=nil
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/undefined mtime=1792096682
+13:40:46 peek: area=34x44 desc=false lines=8 drawn
+13:40:46 fresh: stamp=1792096841 ents=22 keylen=53 hit=true hyperlen=30 own=1791752469
+13:40:46 peek: path=/Users/robinshaw/Code/eza-experiment/walkthrough.html mtime=1791752469
+13:40:46 peek: area=34x44 desc=true lines=44 drawn
+13:40:49 fresh: stamp=1792096841 ents=22 keylen=46 hit=true hyperlen=27 own=1791741605
+13:40:49 peek: path=/Users/robinshaw/Code/eza-experiment/yazi.tape mtime=1791741605
+13:40:49 peek: area=34x44 desc=true lines=18 drawn
+13:41:47 fresh: stamp=1792096907 ents=31 keylen=53 hit=true hyperlen=30 own=1791752469
+13:41:47 peek: path=/Users/robinshaw/Code/eza-experiment/walkthrough.html mtime=1791752469
+13:41:47 peek: area=34x44 desc=true lines=44 drawn
+13:42:16 fresh: stamp=1792096925 ents=31 keylen=53 hit=true hyperlen=30 own=1791752469
+13:42:16 peek: path=/Users/robinshaw/Code/eza-experiment/walkthrough.html mtime=1791752469
+13:42:16 peek: area=69x44 desc=true lines=44 drawn
+13:42:18 fresh: stamp=1792096925 ents=31 keylen=46 hit=true hyperlen=27 own=1791741605
+13:42:18 peek: path=/Users/robinshaw/Code/eza-experiment/yazi.tape mtime=1791741605
+13:42:18 peek: area=69x44 desc=true lines=16 drawn

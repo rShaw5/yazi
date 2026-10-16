@@ -1,0 +1,251 @@
+13:12:52 entry
+13:12:52 folder/selection: reading state
+13:12:52 folder/selection: got paths=0
+13:12:52 died: bad argument #2: error converting Lua nil to table
+stack traceback:
+	[C]: in local 'poll'
+	[string "?"]:4: in field 'read_dir'
+	[string "desc-bulk"]:130: in function <[string "desc-bulk"]:122>
+	[C]: in global 'pcall'
+	[string "desc-bulk"]:122: in function 'desc-bulk.entry'
+
+13:13:03 entry
+13:13:03 folder/selection: reading state
+13:13:03 folder/selection: got paths=0
+13:13:03 died: bad argument #2: error converting Lua nil to table
+stack traceback:
+	[C]: in local 'poll'
+	[string "?"]:4: in field 'read_dir'
+	?: in function <?:122>
+	[C]: in field 'pcall'
+	?: in function 'desc-bulk.entry'
+
+13:13:06 entry
+13:13:06 folder/selection: reading state
+13:13:06 folder/selection: got paths=0
+13:13:06 died: bad argument #2: error converting Lua nil to table
+stack traceback:
+	[C]: in local 'poll'
+	[string "?"]:4: in field 'read_dir'
+	?: in function <?:122>
+	[C]: in field 'pcall'
+	?: in function 'desc-bulk.entry'
+
+13:15:31 entry
+13:15:31 folder/selection: reading state
+13:15:31 folder/selection: got paths=0
+13:15:48 entry
+13:15:48 folder/selection: reading state
+13:15:48 folder/selection: got paths=0
+13:19:59 entry
+13:19:59 folder/selection: reading state
+13:19:59 folder/selection: got paths=0
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/test-matrix.md (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/bulk.tape (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/probe.mjs (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/compare.html (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/incubator.md (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-phase5.gif (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-phase1.gif (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/phase2.tape (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-quit.png (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/longpass.mjs (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-phase2.gif (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/phase5.tape (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/overrides.tsv (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-spike.png (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/broot-still.png (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/broot-demo.gif (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/tests (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/walkthrough.html (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/desc-row.log (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-still.png (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-popup.png (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/desc-bulk.log (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/scan-staged.sh (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-demo.gif (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/rewrite.mjs (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/phase1.tape (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi.tape (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/desc-bar.log (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/yazi-config (outside ROOT)
+13:19:59 skip: /Users/robinshaw/Code/eza-experiment/broot.tape (outside ROOT)
+13:19:59 mode=folder listed=30 jobs=0
+13:22:34 entry
+13:22:34 folder/selection: reading state
+13:22:34 folder/selection: got paths=0
+13:22:34 mode=folder listed=30 jobs=30
+13:22:34 confirm: shown=true yes=true
+13:22:34 job 1/30 /Users/robinshaw/Code/eza-experiment/test-matrix.md spawning
+13:22:43 job 1/30 done=true
+13:22:43 died: [string "desc-bulk"]:266: attempt to call a nil value (global 'pub_changed')
+13:25:59 entry
+13:25:59 folder/selection: reading state
+13:25:59 folder/selection: got paths=0
+13:25:59 mode=folder listed=31 jobs=31
+13:25:59 confirm: shown=true yes=true
+13:25:59 died: [string "desc-bulk"]:297: attempt to call a nil value (global 'pub_changed')
+13:29:42 entry
+13:29:42 folder/selection: reading state
+13:29:42 folder/selection: got paths=0
+13:29:42 mode=folder listed=31 jobs=31
+13:29:42 mt1=nil
+13:29:43 confirm: shown=true yes=true
+13:29:43 job 1/31 /Users/robinshaw/Code/eza-experiment/test-matrix.md spawning
+13:29:48 job 1/31 done=true
+13:29:48 job 2/31 /Users/robinshaw/Code/eza-experiment/bulk.tape spawning
+13:29:53 job 2/31 done=true
+13:29:53 job 3/31 /Users/robinshaw/Code/eza-experiment/probe.mjs spawning
+13:29:58 job 3/31 done=true
+13:29:58 job 4/31 /Users/robinshaw/Code/eza-experiment/compare.html spawning
+13:30:03 job 4/31 done=true
+13:30:03 job 5/31 /Users/robinshaw/Code/eza-experiment/incubator.md spawning
+13:30:08 job 5/31 done=true
+13:30:08 job 6/31 /Users/robinshaw/Code/eza-experiment/yazi-phase5.gif spawning
+13:30:08 job 6/31 done=false
+13:30:08 job 7/31 /Users/robinshaw/Code/eza-experiment/yazi-phase1.gif spawning
+13:30:08 job 7/31 done=false
+13:30:08 job 8/31 /Users/robinshaw/Code/eza-experiment/phase2.tape spawning
+13:30:22 job 8/31 done=true
+13:30:22 job 9/31 /Users/robinshaw/Code/eza-experiment/yazi-quit.png spawning
+13:30:22 job 9/31 done=false
+13:30:22 job 10/31 /Users/robinshaw/Code/eza-experiment/longpass.mjs spawning
+13:30:27 job 10/31 done=true
+13:30:27 job 11/31 /Users/robinshaw/Code/eza-experiment/yazi-phase2.gif spawning
+13:30:27 job 11/31 done=false
+13:30:27 job 12/31 /Users/robinshaw/Code/eza-experiment/phase5.tape spawning
+13:30:33 job 12/31 done=true
+13:30:33 job 13/31 /Users/robinshaw/Code/eza-experiment/overrides.tsv spawning
+13:30:42 job 13/31 done=true
+13:30:42 job 14/31 /Users/robinshaw/Code/eza-experiment/yazi-spike.png spawning
+13:30:42 job 14/31 done=false
+13:30:42 job 15/31 /Users/robinshaw/Code/eza-experiment/broot-still.png spawning
+13:30:43 job 15/31 done=false
+13:30:43 job 16/31 /Users/robinshaw/Code/eza-experiment/broot-demo.gif spawning
+13:30:43 job 16/31 done=false
+13:30:43 job 17/31 /Users/robinshaw/Code/eza-experiment/tests spawning
+13:30:49 job 17/31 done=true
+13:30:49 job 18/31 /Users/robinshaw/Code/eza-experiment/walkthrough.html spawning
+13:30:55 job 18/31 done=true
+13:30:55 job 19/31 /Users/robinshaw/Code/eza-experiment/desc-row.log spawning
+13:31:01 job 19/31 done=true
+13:31:01 job 20/31 /Users/robinshaw/Code/eza-experiment/yazi-still.png spawning
+13:31:01 job 20/31 done=false
+13:31:01 job 21/31 /Users/robinshaw/Code/eza-experiment/yazi-popup.png spawning
+13:31:02 job 21/31 done=false
+13:31:02 job 22/31 /Users/robinshaw/Code/eza-experiment/desc-bulk.log spawning
+13:31:06 job 22/31 done=true
+13:31:06 job 23/31 /Users/robinshaw/Code/eza-experiment/scan-staged.sh spawning
+13:31:13 job 23/31 done=true
+13:31:13 job 24/31 /Users/robinshaw/Code/eza-experiment/yazi-demo.gif spawning
+13:31:13 job 24/31 done=false
+13:31:13 job 25/31 /Users/robinshaw/Code/eza-experiment/desc-cache.tsv spawning
+13:31:21 job 25/31 done=true
+13:31:21 job 26/31 /Users/robinshaw/Code/eza-experiment/rewrite.mjs spawning
+13:31:26 job 26/31 done=true
+13:31:26 job 27/31 /Users/robinshaw/Code/eza-experiment/phase1.tape spawning
+13:31:32 job 27/31 done=true
+13:31:32 job 28/31 /Users/robinshaw/Code/eza-experiment/yazi.tape spawning
+13:31:35 job 28/31 done=true
+13:31:35 job 29/31 /Users/robinshaw/Code/eza-experiment/desc-bar.log spawning
+13:31:41 job 29/31 done=true
+13:31:41 job 30/31 /Users/robinshaw/Code/eza-experiment/yazi-config spawning
+13:31:45 job 30/31 done=true
+13:31:45 job 31/31 /Users/robinshaw/Code/eza-experiment/broot.tape spawning
+13:31:53 job 31/31 done=true
+13:31:53 exit: 21 rewritten, 10 failed (old text kept)
+13:32:41 entry
+13:32:41 folder/selection: reading state
+13:32:41 folder/selection: got paths=0
+13:32:41 mode=folder listed=31 jobs=31
+13:32:41 mt1=nil
+13:32:42 confirm: shown=true yes=true
+13:32:42 fallback mt: /Users/robinshaw/Code/eza-experiment/test-matrix.md -> 1791742479
+13:32:42 job 1/31 /Users/robinshaw/Code/eza-experiment/test-matrix.md spawning
+13:32:48 job 1/31 done=true
+13:32:48 job 2/31 /Users/robinshaw/Code/eza-experiment/bulk.tape spawning
+13:32:55 job 2/31 done=true
+13:32:55 job 3/31 /Users/robinshaw/Code/eza-experiment/probe.mjs spawning
+13:32:58 job 3/31 done=true
+13:32:58 job 4/31 /Users/robinshaw/Code/eza-experiment/compare.html spawning
+13:33:05 job 4/31 done=true
+13:33:05 job 5/31 /Users/robinshaw/Code/eza-experiment/incubator.md spawning
+13:33:08 job 5/31 done=true
+13:33:08 job 6/31 /Users/robinshaw/Code/eza-experiment/yazi-phase5.gif spawning
+13:33:08 job 6/31 done=false
+13:33:08 job 7/31 /Users/robinshaw/Code/eza-experiment/yazi-phase1.gif spawning
+13:33:09 job 7/31 done=false
+13:33:09 job 8/31 /Users/robinshaw/Code/eza-experiment/phase2.tape spawning
+13:33:19 job 8/31 done=true
+13:33:19 job 9/31 /Users/robinshaw/Code/eza-experiment/yazi-quit.png spawning
+13:33:19 job 9/31 done=false
+13:33:19 job 10/31 /Users/robinshaw/Code/eza-experiment/longpass.mjs spawning
+13:33:24 job 10/31 done=true
+13:33:24 job 11/31 /Users/robinshaw/Code/eza-experiment/yazi-phase2.gif spawning
+13:33:25 job 11/31 done=false
+13:33:25 job 12/31 /Users/robinshaw/Code/eza-experiment/phase5.tape spawning
+13:33:28 job 12/31 done=true
+13:33:29 job 13/31 /Users/robinshaw/Code/eza-experiment/overrides.tsv spawning
+13:33:38 job 13/31 done=true
+13:33:38 job 14/31 /Users/robinshaw/Code/eza-experiment/yazi-spike.png spawning
+13:33:38 job 14/31 done=false
+13:33:38 job 15/31 /Users/robinshaw/Code/eza-experiment/broot-still.png spawning
+13:33:39 job 15/31 done=false
+13:33:39 job 16/31 /Users/robinshaw/Code/eza-experiment/broot-demo.gif spawning
+13:33:39 job 16/31 done=false
+13:33:39 job 17/31 /Users/robinshaw/Code/eza-experiment/tests spawning
+13:33:43 job 17/31 done=true
+13:33:43 job 18/31 /Users/robinshaw/Code/eza-experiment/walkthrough.html spawning
+13:33:47 job 18/31 done=true
+13:33:47 job 19/31 /Users/robinshaw/Code/eza-experiment/desc-row.log spawning
+13:33:51 job 19/31 done=true
+13:33:51 job 20/31 /Users/robinshaw/Code/eza-experiment/yazi-still.png spawning
+13:33:51 job 20/31 done=false
+13:33:51 job 21/31 /Users/robinshaw/Code/eza-experiment/yazi-popup.png spawning
+13:33:52 job 21/31 done=false
+13:33:52 job 22/31 /Users/robinshaw/Code/eza-experiment/desc-bulk.log spawning
+13:34:05 job 22/31 done=true
+13:34:05 job 23/31 /Users/robinshaw/Code/eza-experiment/scan-staged.sh spawning
+13:34:12 job 23/31 done=true
+13:34:12 job 24/31 /Users/robinshaw/Code/eza-experiment/yazi-demo.gif spawning
+13:34:12 job 24/31 done=false
+13:34:12 job 25/31 /Users/robinshaw/Code/eza-experiment/desc-cache.tsv spawning
+13:34:20 job 25/31 done=true
+13:34:20 job 26/31 /Users/robinshaw/Code/eza-experiment/rewrite.mjs spawning
+13:34:27 job 26/31 done=true
+13:34:27 job 27/31 /Users/robinshaw/Code/eza-experiment/phase1.tape spawning
+13:34:31 job 27/31 done=true
+13:34:31 job 28/31 /Users/robinshaw/Code/eza-experiment/yazi.tape spawning
+13:34:35 job 28/31 done=true
+13:34:35 job 29/31 /Users/robinshaw/Code/eza-experiment/desc-bar.log spawning
+13:34:43 job 29/31 done=true
+13:34:43 job 30/31 /Users/robinshaw/Code/eza-experiment/yazi-config spawning
+13:34:50 job 30/31 done=true
+13:34:50 job 31/31 /Users/robinshaw/Code/eza-experiment/broot.tape spawning
+13:34:53 job 31/31 done=true
+13:34:53 exit: 21 rewritten, 10 failed (old text kept)
+13:40:54 entry
+13:40:54 folder/selection: reading state
+13:40:54 folder/selection: got paths=9
+13:40:54 mode=selected listed=9 jobs=9
+13:40:54 mt1=1791741900.57121
+13:40:56 confirm: shown=true yes=true
+13:40:56 job 1/9 /Users/robinshaw/Code/eza-experiment/broot-still.png spawning
+13:41:01 job 1/9 done=true
+13:41:01 job 2/9 /Users/robinshaw/Code/eza-experiment/yazi-still.png spawning
+13:41:09 job 2/9 done=true
+13:41:09 job 3/9 /Users/robinshaw/Code/eza-experiment/yazi-demo.gif spawning
+13:41:15 job 3/9 done=true
+13:41:15 job 4/9 /Users/robinshaw/Code/eza-experiment/yazi-phase1.gif spawning
+13:41:23 job 4/9 done=true
+13:41:23 job 5/9 /Users/robinshaw/Code/eza-experiment/yazi-phase2.gif spawning
+13:41:35 job 5/9 done=true
+13:41:35 job 6/9 /Users/robinshaw/Code/eza-experiment/yazi-phase5.gif spawning
+13:41:47 job 6/9 done=true
+13:41:47 job 7/9 /Users/robinshaw/Code/eza-experiment/yazi-popup.png spawning
+13:41:52 job 7/9 done=true
+13:41:52 job 8/9 /Users/robinshaw/Code/eza-experiment/yazi-quit.png spawning
+13:41:59 job 8/9 done=true
+13:41:59 job 9/9 /Users/robinshaw/Code/eza-experiment/yazi-spike.png spawning
+13:42:05 job 9/9 done=true
+13:42:05 exit: 9 rewritten
